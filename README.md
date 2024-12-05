@@ -6,4 +6,4 @@ in this project i have implemented my learning in the following points:
   - Sharing State with Context
   - Managing State with Reducers
 
-![Uploading image.png…]()
+  ![image](https://github.com/user-attachments/assets/76a567c2-15e8-4cde-832d-57f809ef6046)
